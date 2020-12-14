@@ -1,0 +1,118 @@
+C:\Users\prins\source\repos\EditorGrafos\EditorGrafos\bin\Debug\EditorGrafos.exe.config
+C:\Users\prins\source\repos\EditorGrafos\EditorGrafos\bin\Debug\EditorGrafos.exe
+C:\Users\prins\source\repos\EditorGrafos\EditorGrafos\bin\Debug\EditorGrafos.pdb
+C:\Users\prins\source\repos\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.csprojAssemblyReference.cache
+C:\Users\prins\source\repos\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.Form1.resources
+C:\Users\prins\source\repos\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.Properties.Resources.resources
+C:\Users\prins\source\repos\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.csproj.GenerateResource.cache
+C:\Users\prins\source\repos\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.csproj.CoreCompileInputs.cache
+C:\Users\prins\source\repos\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.exe
+C:\Users\prins\source\repos\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.pdb
+D:\EditorGrafos\EditorGrafos\bin\Debug\EditorGrafos.exe.config
+D:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.exe
+D:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.pdb
+D:\EditorGrafos\EditorGrafos\bin\Debug\EditorGrafos.exe
+D:\EditorGrafos\EditorGrafos\bin\Debug\EditorGrafos.pdb
+D:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.csprojResolveAssemblyReference.cache
+D:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.Form1.resources
+D:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.Properties.Resources.resources
+D:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.csproj.GenerateResource.Cache
+E:\EditorGrafos\EditorGrafos\bin\Debug\EditorGrafos.exe.config
+E:\EditorGrafos\EditorGrafos\bin\Debug\EditorGrafos.exe
+E:\EditorGrafos\EditorGrafos\bin\Debug\EditorGrafos.pdb
+E:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.csprojAssemblyReference.cache
+E:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.Form1.resources
+E:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.Properties.Resources.resources
+E:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.csproj.GenerateResource.cache
+E:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.csproj.CoreCompileInputs.cache
+E:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.exe
+E:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.pdb
+E:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.matriz_adyacencia.resources
+E:\EditorGrafos\EditorGrafos\obj\Debug\EditorGrafos.matrizPeso.resources
+E:\EditorGrafos - copia\EditorGrafos\bin\Debug\EditorGrafos.exe.config
+E:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.exe
+E:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.pdb
+E:\EditorGrafos - copia\EditorGrafos\bin\Debug\EditorGrafos.exe
+E:\EditorGrafos - copia\EditorGrafos\bin\Debug\EditorGrafos.pdb
+E:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.Form1.resources
+E:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.matriz_adyacencia.resources
+E:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.matrizPeso.resources
+E:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.Properties.Resources.resources
+E:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.csproj.GenerateResource.Cache
+D:\EditorGrafos - copia\EditorGrafos\bin\Debug\EditorGrafos.exe.config
+D:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.exe
+D:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.pdb
+D:\EditorGrafos - copia\EditorGrafos\bin\Debug\EditorGrafos.exe
+D:\EditorGrafos - copia\EditorGrafos\bin\Debug\EditorGrafos.pdb
+D:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.csprojResolveAssemblyReference.cache
+D:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.Form1.resources
+D:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.matriz_adyacencia.resources
+D:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.matrizPeso.resources
+D:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.Properties.Resources.resources
+D:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.csproj.GenerateResource.Cache
+E:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.csprojAssemblyReference.cache
+E:\EditorGrafos - copia\EditorGrafos\obj\Debug\EditorGrafos.csproj.CoreCompileInputs.cache
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.exe.config
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.exe
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.pdb
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csprojAssemblyReference.cache
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Form1.resources
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.matriz_adyacencia.resources
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.matrizPeso.resources
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Properties.Resources.resources
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csproj.GenerateResource.cache
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csproj.CoreCompileInputs.cache
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.exe
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.pdb
+C:\Users\prins\Desktop\Grafos 2019\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Incidencia.resources
+E:\grafo2\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.exe.config
+E:\grafo2\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.exe
+E:\grafo2\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.pdb
+E:\grafo2\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.exe
+E:\grafo2\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.pdb
+E:\grafo2\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Form1.resources
+E:\grafo2\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Incidencia.resources
+E:\grafo2\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.matriz_adyacencia.resources
+E:\grafo2\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.matrizPeso.resources
+E:\grafo2\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Properties.Resources.resources
+E:\grafo2\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csproj.GenerateResource.Cache
+E:\grafo2\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csprojAssemblyReference.cache
+E:\grafo2\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csproj.CoreCompileInputs.cache
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.exe.config
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.exe
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.pdb
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csprojResolveAssemblyReference.cache
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Form1.resources
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Incidencia.resources
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.matriz_adyacencia.resources
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.matrizPeso.resources
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Properties.Resources.resources
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csproj.GenerateResource.Cache
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.exe
+C:\Users\diego\Downloads\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.pdb
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.exe.config
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.exe
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\bin\Debug\EditorGrafos.pdb
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csprojAssemblyReference.cache
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Form1.resources
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Incidencia.resources
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.matriz_adyacencia.resources
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.matrizPeso.resources
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.Properties.Resources.resources
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csproj.GenerateResource.cache
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.csproj.CoreCompileInputs.cache
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.exe
+C:\Users\aZdraN\Desktop\EditorGrafoss\EditorGrafos\obj\Debug\EditorGrafos.pdb
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\bin\Debug\EditorGrafos.exe.config
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\bin\Debug\EditorGrafos.exe
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\bin\Debug\EditorGrafos.pdb
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\obj\Debug\EditorGrafos.csprojAssemblyReference.cache
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\obj\Debug\EditorGrafos.Form1.resources
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\obj\Debug\EditorGrafos.matriz_adyacencia.resources
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\obj\Debug\EditorGrafos.matrizPeso.resources
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\obj\Debug\EditorGrafos.Properties.Resources.resources
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\obj\Debug\EditorGrafos.csproj.GenerateResource.cache
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\obj\Debug\EditorGrafos.csproj.CoreCompileInputs.cache
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\obj\Debug\EditorGrafos.exe
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\obj\Debug\EditorGrafos.pdb
+C:\Users\aZdraN\Desktop\EditorGrafoss - copia\EditorGrafos\obj\Debug\EditorGrafos.csproj.CopyComplete
